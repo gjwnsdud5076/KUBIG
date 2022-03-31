@@ -8,7 +8,6 @@ DNA 염기서열의 특징부분을 BERT로 추출할 수 있는지 실험했습
 - 목적: DNABERT 논문 분석과 새로운 task 수행
 - 기간: 2021.7.1~2021.8.31
 - 팀원: 허준영 이가영 김소형
-- GitHub: [Song Lyrics Generator](https://github.com/gjwnsdud5076/DNABERT.git)  
 
 ## ❕ 사용 데이터셋
 - 사람과 쥐의 염기서열
